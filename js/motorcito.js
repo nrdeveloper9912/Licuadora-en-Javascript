@@ -17,7 +17,7 @@ console.log("me prendiste");
 }
 }
 
-function hacerBrrBrr() {
+/* function ruido() {
     if( sonidoLicuadora.paused ){
         botonLicuadora.paused();
         sonidoLicuadora.play();
@@ -27,3 +27,4 @@ function hacerBrrBrr() {
         sonidoLicuadora.currentTime = 0;
     }
 }
+ */
